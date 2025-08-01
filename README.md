@@ -12,7 +12,7 @@ A modern e-commerce storefront built with React, TypeScript, and shadcn/ui compo
 
 ```sh
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Aniketwarule/Solytics_Assignment.git
 
 # Navigate to the project directory
 cd Solytics_Assignment
